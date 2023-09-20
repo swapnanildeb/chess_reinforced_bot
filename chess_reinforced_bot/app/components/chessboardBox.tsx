@@ -1,9 +1,5 @@
 import { Chessboard } from "react-chessboard";
 
-	      // <Chessboard position = {gamePosition} id="BasicBoard"/>
-
-
-
 export default function ChessboardBox(gamePosition: any) {
 	  return (
 
